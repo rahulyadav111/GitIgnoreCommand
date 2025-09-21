@@ -1,3 +1,7 @@
+# Ignore for the Password folder and all the file inside /*for folder ignore */
 Password/
+Password1/  
+# Ignore for css file all extension .css
 *.css
+# Ignore for app.js file only 
 app.js
